@@ -77,7 +77,7 @@ Si el software ha aprendido a generar imágenes sin dibujar y a convertir la ciu
 
 ## **Uso de IA**
 
-En el desarrollo de esta PEC se ha hecho un uso limitado de herramientas de inteligencia artificial como apoyo en la exploración de enfoques teóricos, revisión sintáctica y estructuración de los argumentos, siguiendo las recomendaciones de la UOC sobre el uso responsable de IA en contextos académicos. La selección de los casos, el análisis conceptual, la argumentación teórica y la redacción final corresponden al autor.
+Para la elaboración de esta PEC he utilizado herramientas de IA de forma puntual para ayudarme a estructurar las ideas principales y revisar la coherencia del texto. No obstante, la selección de los casos, el análisis personal aplicando la teoría de Manovich y la redacción final son de autoría propia.
 
 ## **Referencias**
 
@@ -96,4 +96,5 @@ Niantic Labs. (2016). Pokémon GO [Videojuego de Realidad Aumentada]. Recuperado
 ## Licencia
 
 Este trabajo se publica bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
+
 Permite copiar, redistribuir y transformar el material para fines no comerciales, siempre que se cite la autoría original y se distribuya bajo la misma licencia.
