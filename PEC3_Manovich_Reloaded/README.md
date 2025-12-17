@@ -36,7 +36,7 @@ Este proceso ilustra el principio de variabilidad de Manovich llevado a su extre
 
 Esto reconfigura el rol del "autor", que pasa de ser un artesano manual a un curador de bases de datos. La creatividad se desplaza de la ejecución a la selección y la iteración. Midjourney demuestra que el software ha dejado de ser una herramienta pasiva para convertirse en un colaborador activo que "alucina" cultura visual a partir de los datos que le hemos suministrado colectivamente.
 
-!![Fig 1. La interfaz de línea de comandos de Midjourney evidencia la transcodificación: el texto (input) se convierte en imagen (output) mediante la hibridación de estilos visuales.](img/midjourney.jpg)
+![Fig 1. La interfaz de línea de comandos de Midjourney evidencia la transcodificación: el texto (input) se convierte en imagen (output) mediante la hibridación de estilos visuales.](img/midjourney.jpg)
 
 
 ## Caso 2 – Pokémon GO
@@ -98,3 +98,4 @@ Niantic Labs. (2016). Pokémon GO [Videojuego de Realidad Aumentada]. Recuperado
 Este trabajo se publica bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
 
 Permite copiar, redistribuir y transformar el material para fines no comerciales, siempre que se cite la autoría original y se distribuya bajo la misma licencia.
+
