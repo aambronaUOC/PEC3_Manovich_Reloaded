@@ -93,9 +93,18 @@ Midjourney Inc. (2022). Midjourney [Software de IA Generativa]. Recuperado de ht
 
 Niantic Labs. (2016). Pokémon GO [Videojuego de Realidad Aumentada]. Recuperado de https://pokemongolive.com
 
+## Licencia Imágenes
+
+Imágen Midjourney - “<a href="https://www.flickr.com/photos/wfryer/52596640633" title="MidJourney Query">MidJourney Query</a>” por <a href="https://www.flickr.com/photos/wfryer/">Wesley Fryer</a>, <a href="https://creativecommons.org/licenses/by/2.0/deed.es" rel="license noopener noreferrer">CC BY 2.0</a>
+
+Imágen PokemonGo - “<a href="https://www.flickr.com/photos/albert_hsieh/28236326333" title="POKEMON GO">POKEMON GO</a>” por <a href="https://www.flickr.com/photos/albert_hsieh/">Albert Hsieh</a>, <a href="https://creativecommons.org/licenses/by-nc/2.0/deed.es" rel="license noopener noreferrer">CC BY-NC 2.0</a>
+
 ## Licencia
 
 Este trabajo se publica bajo una licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
 
 Permite copiar, redistribuir y transformar el material para fines no comerciales, siempre que se cite la autoría original y se distribuya bajo la misma licencia.
+
+
+
 
